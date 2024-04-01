@@ -38,3 +38,7 @@ except socket.error:
         print("could not connect to server.")
         sys.exit()
                      
+#setup 
+	#download scanner assumming its on kali
+	# enter python3 scanner.py (valid ip address)
+
