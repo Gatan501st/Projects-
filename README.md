@@ -3,7 +3,7 @@
 # Projects-
 This repository contains a selection of my personal projects, showcasing my skills and interests in various areas. Feel free to explore the code and project descriptions to get a better understanding of my work
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gatanna-waruinge-807413290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5tlTuI9hTx%2BXxguTS57mSQ%3D%3D)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
