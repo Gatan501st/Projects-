@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Configuration                         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
 | simple port scanning                          | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Security information and event management     | failed rdp to IP geolocation  |
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
