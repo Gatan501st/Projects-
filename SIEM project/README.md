@@ -30,7 +30,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Attacks from Ghana; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours </h2>
